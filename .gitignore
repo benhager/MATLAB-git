@@ -1,7 +1,0 @@
-############################
-## MATLAB
-############################
-
-# Ignore Matlab and Simulink autosave files
-*.asv
-*.autosave
